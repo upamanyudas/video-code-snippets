@@ -1,6 +1,6 @@
 ## #25 - Open Source and lightweight server monitoring for Windows, Mac Linux
 
-[![Open Source and lightweight server monitoring for Windows, Mac Linux](https://img.youtube.com/vi/qj65pNgSPtE/maxresdefault.jpg)](https://www.youtube.com/embed/qj65pNgSPtE)
+[![Open Source and lightweight server monitoring for Windows, Mac Linux](https://img.youtube.com/vi/qj65pNgSPtE/sddefault.jpg)](https://www.youtube.com/embed/qj65pNgSPtE)
 
 - `docker` and `docker-compose` install commands
 
