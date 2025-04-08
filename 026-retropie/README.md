@@ -36,8 +36,13 @@ scp -r <roms-path> pi@retropie.local:~/RetroPie/roms
 ```
 
 ### Mounting the NAS Share
+* Edit the `fstab` file with
 ```bash
 sudo nano /etc/fstab;
-//<nas-ip>/<roms-path> /home/pi/RetroPie/roms cifs username=Username,password=Password,nounix,noserverino,defaults,users,auto 0 0
+```
+* Add this line to the bottom. Replace with `<nas-ip>` with your NAS's IP and `<roms-path>` with the location for the ROMs.
+* Also replace `<username>` & `<password>` with you NAS's username and password
+```bash
+//<nas-ip>/<roms-path> /home/pi/RetroPie/roms cifs username=<username>,password=<password>,nounix,noserverino,defaults,users,auto 0 0
 ```
 You can run `sudo mount -a` to check if you NAS mounts correctly before rebooting.
