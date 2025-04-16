@@ -1,6 +1,6 @@
 ## #Q07 How to Play Pokémon Scarlet and Violet on PC/Mac
 
-[![How to Play Pokémon Scarlet and Violet on PC/Mac](https://img.youtube.com/vi/<>/maxresdefault.jpg)](https://www.youtube.com/embed/<>)
+[![How to Play Pokémon Scarlet and Violet on PC/Mac](https://img.youtube.com/vi/zWjDaZDtCk8/maxresdefault.jpg)](https://www.youtube.com/embed/zWjDaZDtCk8)
 
 ### Download Instructions (IMPORTANT)
 
