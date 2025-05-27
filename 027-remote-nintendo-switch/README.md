@@ -1,6 +1,6 @@
-## #27 - this nintendo switch 2 trick will blow 🤯 your mind
+## #27 - This Nintendo Switch 2 Trick Will Blow 🤯 Your Mind
 
-[![this nintendo switch 2 trick will blow 🤯 your mind](https://img.youtube.com/vi/<>/maxresdefault.jpg)](https://www.youtube.com/embed/<>)
+[![this nintendo switch 2 trick will blow 🤯 your mind](https://img.youtube.com/vi/isLsAP5_Jpo/maxresdefault.jpg)](https://www.youtube.com/embed/isLsAP5_Jpo)
 
 ### Installing [RaspberryPi Imager](https://www.raspberrypi.com/software/)
 - macOS, Linux
