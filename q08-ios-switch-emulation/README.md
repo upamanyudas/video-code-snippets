@@ -1,6 +1,6 @@
 ## #Q08 - How to Play Pokemon Sword and Shield on iPhone/iPad
 
-[![How to Play Pokemon Sword and Shield on iPhone/iPad](https://img.youtube.com/vi/<>/maxresdefault.jpg)](https://www.youtube.com/embed/<>)
+[![How to Play Pokemon Sword and Shield on iPhone/iPad](https://img.youtube.com/vi/Zq0ot2_DR_w  /maxresdefault.jpg)](https://www.youtube.com/embed/Zq0ot2_DR_w    )
 
 ### Download Instructions (IMPORTANT)
 
