@@ -48,6 +48,6 @@ Reddit comment (tutorial) : https://www.reddit.com/r/iosgaming/comments/1kc6tx3/
 
 ### Pokémon Sword & Shield
 
-**Sword:** `aHR0cHM6Ly9jZG4uZGFzZXJ2ZS5pbi9nYW0tcmVtcy9wa21uL1BTVy1SRi1OU3dUY0gtTlNQLnppcA==`
+**Sword:** `aHR0cHM6Ly9zaHJpbmttZS50b3AvUFNXLVJGLU5Td1RjSC1OU1A=`
 
-**Shield:** `aHR0cHM6Ly9jZG4uZGFzZXJ2ZS5pbi9nYW0tcmVtcy9wa21uL1BTSC1SRi1OU3dUY0gtTlNQLnppcA==`
+**Shield:** `aHR0cHM6Ly9zaHJpbmttZS50b3AvUFNILVJGLU5Td1RjSC1OU1A=`

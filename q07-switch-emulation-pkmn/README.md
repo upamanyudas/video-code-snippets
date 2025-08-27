@@ -26,8 +26,8 @@ Once you download the release, just extract it and run the Ryujinx executable.
 
 ### Pokémon Scarlet and Violet
 
-**Scarlet:** `aHR0cHM6Ly9jZG4uZGFzZXJ2ZS5pbi9nYW0tcmVtcy9wa21uL1BTQy1SRi1OU3dUY0gtTlNQLjd6`
+**Scarlet:** `aHR0cHM6Ly9zaHJpbmttZS50b3AvUFNDLVJGLU5Td1RjSC1OU1A=`
 
-**Violet:** `aHR0cHM6Ly9jZG4uZGFzZXJ2ZS5pbi9nYW0tcmVtcy9wa21uL1BWSS1SRi1OU3dUY0gtTlNQLjd6`
+**Violet:** `aHR0cHM6Ly9zaHJpbmttZS50b3AvUFZJLVJGLU5Td1RjSC1OU1A=`
 
 * * *
